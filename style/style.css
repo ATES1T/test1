@@ -1,0 +1,21 @@
+body {
+    background-image: linear-gradient(to right,#e03ee6, rgb(223, 137, 218), #e03ee6, rgb(245, 4, 225));
+}
+
+.img-style {
+    width: 70%;
+    border-radius: 50%;
+    box-shadow: 0 0 50px green;
+    margin-bottom: 10px;
+    margin-top: 60px;
+    
+}
+
+.card {
+    background-image:linear-gradient(to right,  #e03ee6, rgb(223, 137, 218), #e03ee6, rgb(245, 4, 225));
+} ;
+
+.row {
+    padding: 100px;
+    margin-top: 100px;
+}
